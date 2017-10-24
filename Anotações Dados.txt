@@ -1,0 +1,7 @@
+- Os dados são separados pela data de emissão.
+Ex: AA2014 -> Data de emissão entre 07-01-2014 e 06-30-2005
+
++ Problemas:
+ - As funções ou preservam a data ou preservam o numero, nunca os dois.
+         -Alternativa: Utilizar outra função ou mixar os dados das duas.
+
